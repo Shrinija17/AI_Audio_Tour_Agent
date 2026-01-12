@@ -46,7 +46,7 @@ streamlit run roadbuddy.py
 
 ## Tech Stack
 
-- **AI**: Claude Sonnet 4 (Anthropic)
+- **AI**: Claude claude-sonnet-4-20250514 (Anthropic)
 - **UI**: Streamlit
 - **TTS**: Google TTS (free)
 - **STT**: Google Speech Recognition

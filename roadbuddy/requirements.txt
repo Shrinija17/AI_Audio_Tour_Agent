@@ -1,0 +1,6 @@
+anthropic==0.42.0
+streamlit==1.43.2
+gtts==2.5.4
+SpeechRecognition==3.10.4
+audio-recorder-streamlit==0.0.10
+pydub==0.25.1
